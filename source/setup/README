@@ -1,0 +1,54 @@
+
+                            HTML MIME Mail
+
+
+
+General information
+-------------------
+
+A class for sending mime email. It can send: HTML email, HTML email
+with embeded images, HTML email with embedded images and attachments,
+HTML email with attachments, text email, text email with attachments.
+** Some of the example scripts rely on external files, namely
+example.zip and background.gif. **
+
+
+
+License
+-------
+
+See the file named LICENSE.
+
+
+
+Requirements
+------------
+
+Serverside:
+	A working Innomatic platform installation.
+
+Clientside:
+	a web browser with HTML 4.0 and CSS support.
+
+
+
+Installation
+------------
+
+See the file named INSTALL.
+
+
+
+Additional Information
+----------------------
+
+Innomatic official home page:
+	http://www.innoteam.it
+
+
+
+Disclaimer
+----------
+
+There is no warranty, expressed or implied, associated with this product.
+Use at your own risk.

@@ -1,0 +1,44 @@
+<?xml version='1.0'?>
+<application>
+	<definition>
+		<idname>htmlmimemaillib</idname>
+		<release>
+			<version>1.38-2</version>
+			<date>2008/10/10</date>
+			<changesfile>CHANGELOG</changesfile>
+		</release>
+		<description>A class for sending MIME email.</description>
+		<category>libraries</category>
+		<iconfile></iconfile>
+		<dependencies>
+			<dependency>innomatic[5.0]</dependency>
+		</dependencies>
+		<options>
+			<!-- <option></option> -->
+		</options>
+		<legal>
+			<author>
+				<name>Richard Heyes</name>
+				<email>richard.heyes@heyes-computing.net</email>
+				<web></web>
+			</author>
+			<copyright></copyright>
+			<license>Free to use</license>
+			<licensefile>LICENSE</licensefile>
+		</legal>
+		<support>
+			<supportemail>helpdesk@innoteam.it</supportemail>
+			<bugsemail>helpdesk@innoteam.it</bugsemail>
+			<maintainer>
+				<name>Alex Pagnoni</name>
+				<email>alex.pagnoni@innoteam.it</email>
+			</maintainer>
+		</support>
+	</definition>
+
+	<components>
+
+		<class name="htmlmimemail/HTMLMimeMail.php" />
+
+	</components>
+</application>
