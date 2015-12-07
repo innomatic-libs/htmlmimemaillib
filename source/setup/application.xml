@@ -3,7 +3,7 @@
 	<definition>
 		<idname>htmlmimemaillib</idname>
 		<release>
-			<version>1.38-2</version>
+			<version>1.38.3</version>
 			<date>2008/10/10</date>
 			<changesfile>CHANGELOG</changesfile>
 		</release>
